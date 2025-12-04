@@ -1,0 +1,8 @@
+﻿  Banking System Extension 2.cpp
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(66,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(950,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(990,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(910,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(868,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\9obi\source\repos\Banking System Extension 2\Banking System Extension 2.cpp(1017,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Banking System Extension 2.vcxproj -> C:\Users\9obi\source\repos\Banking System Extension 2\x64\Debug\Banking System Extension 2.exe
